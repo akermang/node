@@ -1,4 +1,6 @@
-import $ from 'jquery';
+// import $ from 'jquery';
+
+
 
 function test(){
     alert("shalom")
